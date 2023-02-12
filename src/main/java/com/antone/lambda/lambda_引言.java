@@ -11,6 +11,7 @@ public class lambda_引言 {
 
 
     /**
+     * Day 1
      * 通过lambda表达式优化匿名内部类的臃肿
      */
     @Test

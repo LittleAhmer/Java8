@@ -6,6 +6,7 @@ import java.util.Comparator;
 import java.util.function.Consumer;
 
 /**
+ *  Day 1
  *  Lambda：语法糖
  *  一、 Lambda表达式的基础语法：Java8中引入了一个新操作符 "->"
  *  该操作符成为箭头操作符或者Lambda操作符
