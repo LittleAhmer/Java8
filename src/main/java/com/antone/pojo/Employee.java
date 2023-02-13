@@ -13,13 +13,15 @@ public class Employee {
     private Integer age;
     private Double salary;
 
-    public Employee(String name, Integer age){
+    public Employee(String name, Integer age) {
         this.name = name;
         this.age = age;
     }
-    public Employee(int age){
+
+    public Employee(int age) {
         this.age = age;
     }
+
     public Double getSalary() {
         return salary;
     }
@@ -27,4 +29,5 @@ public class Employee {
     public void setSalary(Double salary) {
         this.salary = salary;
     }
+
 }
